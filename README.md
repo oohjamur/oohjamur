@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oohjamur
 - 👀 I’m interested in data scientist
 - 🌱 I’m currently learning database system 1
-- 💞️ I’m looking to collaborate on oracle
+- 💞️ I’m looking to collaborate on Oracle
 - 📫 How to reach me email gcyogaagung123@gmail.com
 
 <!---
