@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oohjamur
-- 👀 I’m interested in data scientist
-- 🌱 I’m currently learning database system 1
-- 💞️ I’m looking to collaborate on Oracle
+- 👀 I’m student at Satya Wacana Cristian University
+- 🌱 I’m currently learning HTML, CSS, MySQL, Figma, UI/UX Design
 - 📫 How to reach me email gcyogaagung123@gmail.com
 
 <!---
