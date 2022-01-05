@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oohjamur
-- 👀 I’m student at Satya Wacana Cristian University
+- 👀 I’m student at Satya Wacana Christian University
 - 🌱 I’m currently learning HTML, CSS, MySQL, Figma, UI/UX Design
 - 📫 How to reach me email gcyogaagung123@gmail.com
 
